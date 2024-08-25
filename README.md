@@ -1,3 +1,2 @@
-# devops_lab
 
 # A constantly Work In Progress environment in which I experiment with my tools, workflows clusters, etc
