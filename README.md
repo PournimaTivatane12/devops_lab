@@ -1,7 +1,7 @@
 
 # A constantly Work In Progress environment in which I experiment with my tools, workflow clusters, etc
 
-DEVOPS Practice Projects
+DevOps Practice Projects
 
 **Project no. 1**
 
@@ -16,3 +16,7 @@ DEVOPS Practice Projects
 **Project no. 6**
 
 **Project no. 7**
+
+**Project no. 8**
+
+**Project no. 9**
