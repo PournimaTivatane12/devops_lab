@@ -1,4 +1,4 @@
-This project Based on 
+This project is Based on 
 
 # Serverless Application Development with AWS Lambda
 
