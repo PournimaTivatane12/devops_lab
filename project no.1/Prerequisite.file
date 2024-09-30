@@ -1,0 +1,63 @@
+
+Prerequisites for AWS Serverless Architecture
+
+1. AWS Account
+
+Ensure you have an AWS account. If not, sign up at AWS.
+Setup billing alerts to monitor costs while working with AWS.
+
+2. Tools and Software
+
+AWS CLI (Command Line Interface)
+Install the AWS CLI on your local machine to interact with AWS services.
+Installation guide: AWS CLI Installation
+Node.js
+Install Node.js for managing packages (e.g., Serverless Framework).
+Download it from Node.js.
+Serverless Framework
+Install Serverless Framework for deploying your serverless applications.
+Install via npm:
+bash
+Copy code
+npm install -g serverless
+
+3. IAM Permissions
+
+Create an IAM user with programmatic access and necessary permissions for:
+AWS Lambda
+API Gateway
+Amazon Cognito
+Aurora Serverless
+CloudFront
+Attach a policy with sufficient permissions or use AWS managed policies like AdministratorAccess (for development/testing purposes).
+
+4. GitHub Setup
+
+A GitHub account is required to manage and version-control the project.
+Set up a repository for your project to track changes.
+
+5. AWS Resources
+
+Amazon Aurora Serverless: A relational database that automatically scales.
+AWS Lambda: To run backend logic as functions.
+Amazon API Gateway: For exposing backend services as APIs.
+Amazon Cognito: For user authentication and identity management.
+Amazon CloudFront: For fast content delivery.
+
+6. Supporting Services
+
+S3: For storage of static assets.
+Route 53: For managing custom domain names (if applicable).
+SNS & SQS: For event-driven architecture and messaging.
+CloudWatch: For monitoring and logging.
+VPC: Virtual Private Cloud, if the architecture involves networking configurations.
+AWS Systems Manager: For parameter management (e.g., secrets, environment variables).
+
+7. Networking
+
+Set up VPC with necessary subnets and routing if your application requires it.
+Ensure that necessary security groups and network ACLs are configured.
+
+8. Basic AWS Knowledge
+
+Familiarity with AWS Lambda, API Gateway, Amazon Cognito, and other AWS services used in the architecture.
