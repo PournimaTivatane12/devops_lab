@@ -1,1 +1,5 @@
-main 
+**Overview of Serverless Application Development with AWS Lambda**
+
+AWS Lambda is a serverless compute service that enables developers to run code without the need to manage servers.
+This allows for rapid development and deployment of applications while minimizing infrastructure management. 
+Here’s a comprehensive look at how to develop serverless applications using AWS Lambda.
