@@ -5,6 +5,8 @@ DevOps Practice Projects
 
 **Project no. 1**
 
+# Serverless Application Development with AWS Lambda
+
 **Project no. 2**
 
 **Project no. 3**
