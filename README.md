@@ -11,9 +11,9 @@ DevOps Practice Projects
 
 **Project no. 2**
 
-![image](https://github.com/user-attachments/assets/64f785d8-edc3-4754-9feb-7c12a2c8fa0d)
-
 **Kubernetes Cluster Deployment and Management**
+
+![image](https://github.com/user-attachments/assets/64f785d8-edc3-4754-9feb-7c12a2c8fa0d)
 
 **Project no. 3**
 
