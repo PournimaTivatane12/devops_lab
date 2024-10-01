@@ -1,5 +1,5 @@
 
-# A constantly Work In Progress environment in which I experiment with my tools, workflow clusters, etc
+# A constantly Work In Progress environment in which I experiment with my tools, workflow clusters, etc.
 
 DevOps Practice Projects
 
@@ -21,8 +21,11 @@ DevOps Practice Projects
 
 ![image](https://github.com/user-attachments/assets/2f142a21-482a-4c83-a4fe-7af6ba26e28d)
 
-
 **Project no. 4**
+
+**CI/CD Pipeline Setup with Jenkins and Docker**
+
+![image](https://github.com/user-attachments/assets/1ff5c62c-a04d-42ba-8fea-c97636abad69)
 
 **Project no. 5**
 
