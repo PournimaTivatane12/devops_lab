@@ -17,6 +17,11 @@ DevOps Practice Projects
 
 **Project no. 3**
 
+**Network Configuration and Monitoring with Prometheus and Grafana**
+
+![image](https://github.com/user-attachments/assets/2f142a21-482a-4c83-a4fe-7af6ba26e28d)
+
+
 **Project no. 4**
 
 **Project no. 5**
