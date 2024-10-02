@@ -1,1 +1,13 @@
-main
+1. Project Overview
+
+Start with a brief introduction:
+
+Objective: Explain that the project aimed to automate the software development lifecycle (SDLC) using Jenkins and Docker to enable continuous integration and continuous deployment (CI/CD).
+Scope: Mention the application or service being deployed, the environments involved (development, staging, production), and any specific requirements such as minimizing downtime or ensuring consistent build environments.
+
+2. Tools Used
+
+Highlight the key tools involved:
+
+Jenkins: Describe Jenkins as an open-source automation server that facilitates building, testing, and deploying software. Emphasize its role in orchestrating the CI/CD pipeline.
+Docker: Explain Docker as a platform for developing, shipping, and running applications in containers. Highlight its benefits in providing consistent environments across different stages of development.
