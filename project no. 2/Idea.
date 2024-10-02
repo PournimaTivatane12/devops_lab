@@ -1,0 +1,18 @@
+1. Project Overview
+
+Start with a brief introduction to the project:
+Objective: Explain the main goal of your project, such as deploying a scalable application on Kubernetes to improve resource utilization and manageability.
+Scope: Mention the components involved, such as the application architecture (microservices, monolithic), and any specific requirements like high availability or fault tolerance.
+
+2. Kubernetes Basics
+
+Provide a foundational understanding of Kubernetes:
+What is Kubernetes?: Describe Kubernetes as an open-source platform for automating deployment, scaling, and management of containerized applications.
+Key Components: Briefly explain essential components like Pods, Deployments, Services, and ReplicaSets.
+
+3. Deployment Strategy
+
+Discuss the deployment strategy you used:
+Kubernetes Deployment: Explain how you utilized the Deployment object to manage the application lifecycle, ensuring that the desired number of pod replicas were running at all times.
+Deployment Strategies: Mention any specific strategies you implemented (e.g., Rolling Updates for zero downtime or Blue/Green deployments for safer releases) and why they were chosen based on project requirements.
+
