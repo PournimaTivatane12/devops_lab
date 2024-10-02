@@ -1,1 +1,11 @@
-Main
+1. Project Overview
+
+Start with a concise introduction:
+Objective: Explain that the project aimed to set up a comprehensive monitoring solution for network performance and application metrics using Prometheus and Grafana.
+Scope: Mention the infrastructure components monitored (e.g., servers, applications) and the specific metrics tracked (e.g., CPU usage, memory consumption, network I/O).
+
+2. Tools Used
+
+Highlight the key tools involved:
+Prometheus: Describe it as an open-source monitoring system designed for collecting metrics from various sources through a pull-based model. Emphasize its capabilities in time-series data collection and alerting.
+Grafana: Explain that Grafana is a visualization tool that integrates seamlessly with Prometheus to create interactive dashboards for visualizing metrics.
