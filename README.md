@@ -33,10 +33,4 @@ DevOps Practice Projects
 
 ![image](https://github.com/user-attachments/assets/de696395-f919-465c-8a7b-95cec09b0abb)
 
-**Project no. 6**
 
-**Project no. 7**
-
-**Project no. 8**
-
-**Project no. 9**
