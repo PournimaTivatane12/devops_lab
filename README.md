@@ -36,6 +36,7 @@ Architecture:
 **Automated Infrastructure Provisioning with Terraform using aws**
 
 Architecture:
+
 ![image](https://github.com/user-attachments/assets/de696395-f919-465c-8a7b-95cec09b0abb)
 
 
