@@ -1,0 +1,54 @@
+# Ignore Terraform state files
+*.tfstate
+*.tfstate.*
+
+# Ignore crash logs
+crash.log
+
+# Ignore Terraform variables files
+*.tfvars
+*.tfvars.json
+
+# Ignore override files (used for local development)
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Ignore plan output files
+*.plan
+
+# Ignore Terraform CLI files
+.terraform
+.terraform.lock.hcl
+
+# Ignore sensitive or temporary files
+*.backup
+*.log
+*.bak
+
+# Ignore system files (e.g., macOS and Windows)
+.DS_Store
+Thumbs.db
+
+# Ignore Python environment (if Python scripts are used in the project)
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+*.iml
+
+# Ignore metadata files
+*.swp
+*.swo
+*~
+
+# Add any custom sensitive files specific to your project here
+secrets.yaml
+env.yaml
