@@ -1,0 +1,25 @@
+# Requirements for Automated Infrastructure Provisioning with Terraform
+
+# General purpose dependencies
+boto3==1.28.65             # For interacting with AWS services
+botocore==1.31.65          # Core library for AWS interaction
+
+# Terraform-related dependencies
+python-terraform==0.10.3   # Python wrapper for Terraform CLI
+
+# Logging and configuration
+loguru==0.7.0              # For better logging
+PyYAML==6.0.1              # For YAML configuration files
+
+# Linting and formatting
+black==23.9.1              # Code formatter
+flake8==6.1.0              # Linting for Python code
+
+# Testing
+pytest==7.4.2              # For writing and running tests
+
+# Optional: Cloud-specific utilities
+google-cloud-sdk==431.0.0  # For GCP interaction (if needed)
+azure-mgmt-resource==22.2.0  # For Azure resource management (if needed)
+
+# Note: Ensure Terraform CLI is installed separately.
