@@ -1,0 +1,38 @@
+# AWS SDK for Python (boto3) for interacting with AWS services
+boto3==1.28.0
+
+# Flask for building lightweight APIs (optional)
+Flask==3.0.0
+
+# FastAPI for building robust APIs (optional)
+fastapi==0.100.0
+
+# Mangum to run FastAPI or Flask on AWS Lambda
+mangum==0.15.0
+
+# Python-dotenv for environment variable management
+python-dotenv==1.0.0
+
+# Requests library for making HTTP requests
+requests==2.31.0
+
+# Pydantic for data validation and settings management
+pydantic==2.3.0
+
+# AWS Lambda Powertools for structured logging, tracing, and metrics
+aws-lambda-powertools==2.20.0
+
+# JSON Schema validation (if needed for input validation)
+jsonschema==4.19.0
+
+# Gunicorn for local API testing
+gunicorn==21.2.0
+
+# Serverless Framework SDK (if using Serverless Framework)
+serverless-sdk==3.0.0
+
+# PyYAML for working with YAML files (useful for configurations)
+PyYAML==6.0
+
+
+pip install -r requirements.txt
