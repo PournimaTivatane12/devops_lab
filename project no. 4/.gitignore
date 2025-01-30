@@ -1,0 +1,54 @@
+# Logs and temporary files
+*.log
+*.tmp
+
+# Node dependencies (if using Node.js in any part of the project)
+node_modules/
+
+# Python dependencies (if using Python scripts)
+__pycache__/
+*.py[cod]
+*.env
+
+# Java build files (if using Java/Maven/Gradle)
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE specific files
+.vscode/
+.idea/
+*.iml
+
+# Docker-specific
+docker-compose.override.yml
+.env
+.dockerignore
+
+# Jenkins-specific
+jenkins_home/
+secrets/
+logs/
+war/
+*.bak
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Git-specific
+*.swp
+*.swo
+*.orig
+
+# Build artifacts
+dist/
+build/
+
+# Configurations
+*.config.local
+.env.local
+.env.test
+.env.production

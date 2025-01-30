@@ -1,0 +1,21 @@
+# Automation and CLI Tools
+boto3==1.28.0               # For AWS automation, if applicable
+docker==6.0.1               # Python SDK for Docker
+
+# Configuration and Orchestration
+pyyaml==6.0                 # For managing YAML configuration files
+Jinja2==3.1.2               # For templating configurations
+
+# Testing Frameworks
+pytest==7.5.0               # For running automated tests
+pytest-cov==4.1.0           # For generating test coverage reports
+
+# Linting and Formatting
+flake8==6.1.0               # For Python code linting
+black==23.7.0               # For code formatting
+
+# CI/CD Integration
+jenkins-job-builder==4.1.0  # If automating Jenkins job creation
+requests==2.31.0            # For HTTP requests (e.g., triggering Jenkins builds)
+
+pip install -r requirements.txt
