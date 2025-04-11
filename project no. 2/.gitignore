@@ -1,0 +1,42 @@
+# Ignore sensitive files and credentials
+*.pem
+*.key
+*.crt
+*.enc
+*.kubeconfig
+.env
+
+# Ignore Terraform-specific files (if using Terraform for cluster provisioning)
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# Ignore Kubernetes YAML files with sensitive info
+secret*.yaml
+kubeconfig*.yaml
+
+# Ignore Helm-specific files (if using Helm for deployment)
+*.tgz
+charts/
+release.*
+values.*.yaml
+
+# Ignore temporary or system files
+*.log
+*.swp
+*.tmp
+.DS_Store
+
+# Ignore IDE/editor-specific files
+.vscode/
+.idea/
+*.iml
+
+# Ignore Docker-related files (if applicable)
+*.env
+docker-compose.override.yaml
+
+# Ignore Python cache files (if using Python scripts)
+__pycache__/
+*.py[cod]
+*.pyo

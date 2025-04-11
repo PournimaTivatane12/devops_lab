@@ -1,0 +1,37 @@
+# Prometheus client library for metrics
+prometheus-client==0.16.0
+
+# Flask for creating lightweight web applications (if applicable)
+Flask==3.0.0
+
+# Requests for making HTTP API calls
+requests==2.31.0
+
+# Grafana API client for automation and integration
+grafana-api==2.0.1
+
+# Pandas for data processing (optional, if needed for analytics)
+pandas==2.1.0
+
+# Matplotlib for visualization (optional, for local plotting)
+matplotlib==3.8.0
+
+# PyYAML for handling YAML configuration files
+PyYAML==6.0
+
+# Python-dotenv for managing environment variables
+python-dotenv==1.0.0
+
+# Gunicorn for running Python applications in production
+gunicorn==21.2.0
+
+# Uvicorn for ASGI server (if using FastAPI for integrations)
+uvicorn==0.23.1
+
+# FastAPI for API integrations (if needed)
+fastapi==0.100.0
+
+
+Installation Command:
+
+pip install -r requirements.txt

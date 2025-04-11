@@ -1,0 +1,67 @@
+# Ignore log files
+*.log
+*.log.*
+
+# Ignore environment files
+.env
+.env.*
+
+# Ignore configuration files
+*.yml
+*.yaml
+*.conf
+
+# Ignore sensitive files
+secrets.json
+secrets.yaml
+credentials.json
+auth.key
+
+# Ignore node_modules and dependency directories
+node_modules/
+vendor/
+
+# Ignore compiled files
+*.pyc
+*.class
+*.o
+*.so
+
+# Ignore Prometheus and Grafana data
+prometheus/data/
+grafana/data/
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+
+# Ignore docker-related files
+docker-compose.override.yml
+*.tar
+*.img
+
+# Ignore Terraform files (if used in the project)
+*.tfstate
+*.tfstate.backup
+.terraform/
+terraform.tfvars
+
+# Ignore debugging and test artifacts
+*.out
+*.test
+coverage/
+htmlcov/
+*.profraw
+
+# Ignore IDE/Editor-specific files
+.vscode/
+.idea/
+*.iml
+
+# Ignore local tools or scripts output
+*.pid
+*.lock
