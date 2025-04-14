@@ -1,0 +1,64 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Python dependencies (if using Python runtime)
+*.pyc
+*.pyo
+__pycache__/
+env/
+venv/
+
+# Serverless Framework artifacts
+.serverless/
+.stack/
+
+# AWS credentials
+*.aws.json
+*.aws.yml
+.aws-sam/
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp
+
+# Logs and temporary files
+*.log
+*.tmp
+debug.log
+*.bak
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# CloudFormation template artifacts
+.template/
+template.yml
+.template.yaml
+
+# Environment files
+.env
+.env.*
+
+# Lambda package files
+package.zip
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Test artifacts
+jest-test-results.json
+test-results/
+
+# Terraform or IaC tools (if used)
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# Miscellaneous
+*.iml
+*.lock

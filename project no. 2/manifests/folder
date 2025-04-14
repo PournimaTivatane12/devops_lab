@@ -1,0 +1,8 @@
+kubeadm-init.sh (if using kubeadm)
+
+eks-cluster.yaml (if using eksctl)
+
+kind-config.yaml (for KIND cluster)
+
+minikube-setup.sh (for local cluster)
+
